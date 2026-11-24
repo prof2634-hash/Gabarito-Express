@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "GabaritoExpress – Correção de Gabaritos",
+  "short_name": "Gabarito",
+  "description": "Gere cartões-resposta, corrija gabaritos pela câmera e acompanhe os erros de cada aluno. Funciona offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "lang": "pt-BR",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
